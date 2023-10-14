@@ -7,7 +7,7 @@ This is a weather app that allows users to search for a city and see the current
 To get started, clone the repository and install the dependencies.
 
 ``` sh
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/vishwasholla/weather-app.git
 cd weather-app
 npm install
 ```
